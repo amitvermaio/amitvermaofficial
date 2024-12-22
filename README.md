@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amitvermaofficial
-- 👀 I’m interested in Full-Stack.
+- 👀 I’m interested in Competitive Programming.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 Feel Free to connect me through LinkedIn or other Social Media mention above.
 - 😄 Pronouns: He/Him.
   
