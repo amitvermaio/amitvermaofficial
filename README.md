@@ -38,6 +38,10 @@ I am a 2nd year B.Tech student passionate about web development and problem-solv
 
 ---
 
+## 📈 GitHub Stats
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitvermaofficial&show_icons=true&theme=radical)
+
+
 ### 🌱 Learning & Development
 
 - Currently learning more about advanced JavaScript frameworks and backend development.
