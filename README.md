@@ -47,9 +47,9 @@ I am a 2nd year B.Tech student passionate about web development and problem-solv
 
 ### 📫 How to Reach Me
 
-- **Email**: amitvns159@gmail.com
+- **Email**: [contact me](amitvns159@gmail.com)
 - **LinkedIn**: [Amit Verma](https://www.linkedin.com/in/amit-verma-678343281/)
-- **Instagram**: [@amitvermaofficial](https://www.instagram.com/sonarltd/)
+- **Instagram**: [Amit Verma](https://www.instagram.com/sonarltd/)
 
 ---
 
