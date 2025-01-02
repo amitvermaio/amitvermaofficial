@@ -1,32 +1,63 @@
-# Hi there, I'm Amit Verma! 👋
+# Hi there 👋, I'm Amit Verma!
 
-## About Me
+I am a 2nd year B.Tech student passionate about web development and problem-solving. I love to explore new technologies and continuously improve my skills by working on challenging projects.
 
-I'm a passionate software developer with a keen interest in open-source projects and cutting-edge technologies. I love to learn, experiment, and share my knowledge with the community.
+---
 
-- 🌱 I’m currently learning **Web Development** and **Data Structures and Algorithms.**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **Python, Java, and Web Development**.
-- 📫 How to reach me: [Email](amitvns159@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amitvermaofficial/)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+### 🛠️ Technologies & Tools
 
-## Skills
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-## GitHub Stats
+### 🌱 Learning & Development
 
-![Amit Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitvermaofficial&show_icons=true&theme=radical)
+- Currently learning more about advanced JavaScript frameworks and backend development.
+- Exploring new algorithms and data structures to enhance my problem-solving skills.
 
-## Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/amitvermaofficial/)
-- [Twitter](https://twitter.com/amitvermaofficial)
+### 📫 How to Reach Me
 
-Let's build something amazing together! 🚀
+- **Email**: amitvns159@gmail.com
+- **LinkedIn**: [Amit Verma](https://www.linkedin.com/in/amit-verma-678343281/)
+- **Instagram**: [@amitvermaofficial](https://www.instagram.com/sonarltd/)
+
+---
+
+### ⚡ Fun Facts
+
+- I enjoy solving puzzles and participating in coding challenges.
+- I love to read books and explore new places during my free time.
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
