@@ -2,6 +2,9 @@
 
 I am a 2nd year B.Tech student passionate about web development and problem-solving. I love to explore new technologies and continuously improve my skills by working on challenging projects.
 
+![GitHub followers](https://img.shields.io/github/followers/amitvermaofficial?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/amitvermaofficial?style=social)
+
 ---
 
 ### 🛠️ Technologies & Tools
@@ -41,6 +44,7 @@ I am a 2nd year B.Tech student passionate about web development and problem-solv
 ## 📈 GitHub Stats
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitvermaofficial&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitvermaofficial&layout=compact&theme=radical)
 
 ### 🌱 Learning & Development
 
