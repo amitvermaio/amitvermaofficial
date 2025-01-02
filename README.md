@@ -4,10 +4,10 @@
 
 I'm a passionate software developer with a keen interest in open-source projects and cutting-edge technologies. I love to learn, experiment, and share my knowledge with the community.
 
-- 🌱 I’m currently learning **Machine Learning** and **Cloud Computing**.
+- 🌱 I’m currently learning **Web Development** and **Data Structures and Algorithms.**.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **Python, JavaScript, and Web Development**.
-- 📫 How to reach me: [Email](mailto:amitverma@example.com) | [LinkedIn](https://www.linkedin.com/in/amitvermaofficial/)
+- 💬 Ask me about **Python, Java, and Web Development**.
+- 📫 How to reach me: [Email](amitvns159@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amitvermaofficial/)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## Skills
