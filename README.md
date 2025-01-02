@@ -45,11 +45,11 @@ I am a 2nd year B.Tech student passionate about web development and problem-solv
 
 ---
 
-### 📫 How to Reach Me
+## Connect with me:
 
-- **Email**: [contact me](amitvns159@gmail.com)
-- **LinkedIn**: [Amit Verma](https://www.linkedin.com/in/amit-verma-678343281/)
-- **Instagram**: [Amit Verma](https://www.instagram.com/sonarltd/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitvns159@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-verma-678343281/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sonarltd/)
 
 ---
 
