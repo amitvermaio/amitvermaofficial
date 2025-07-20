@@ -48,9 +48,9 @@ I am a 2nd year B.Tech student passionate about web development and problem-solv
 ---
 
 ## 📈 GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitvermaofficial&show_icons=true&theme=radical)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitvermaio&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitvermaofficial&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitvermaio&layout=compact&theme=radical)
 
 ### 🌱 Learning & Development
 
